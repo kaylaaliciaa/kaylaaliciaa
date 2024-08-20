@@ -31,9 +31,54 @@
 }
 
 #palette2-color1 {
-    background: color #e2e2e2;;
+    background-color: color #e2fcef;
     color:black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 24px;
+}
+
+#palette2-color2 {
+    background-color: color #9b287b;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 24px;
+}
+
+#palette2-color3 {
+    background-color: color #5c164e;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 24px;
+}
+
+#palette3-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#palette3-color1 {
+    background-color: color #067bc2;
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 24px;
+}
+
+#palette3-color2 {
+    background-color: color #f37748;
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 24px;
+}
+
+#palette3-color2 {
+    background-color: color #ecc20b;
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     padding: 24px;
 }
