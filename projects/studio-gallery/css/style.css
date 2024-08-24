@@ -27,3 +27,16 @@
     margin-top: 100px;
 }
 
+#textframe {
+    background-color: black;
+    border: 11px solid white;
+}
+
+p {
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#image3 {
+    width: 100px;
+}
