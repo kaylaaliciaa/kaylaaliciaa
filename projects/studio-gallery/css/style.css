@@ -38,5 +38,14 @@ p {
 }
 
 #image3 {
-    width: 100px;
+    width: 75px;
+    display: block;
+}
+
+#frame3 {
+    width: 85px;
+    border: 11px solid white;
+    padding: 11px;
+    background-color: black;
+    margin-left: 300px;
 }
