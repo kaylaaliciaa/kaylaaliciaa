@@ -15,9 +15,10 @@
     background-color: gray;
 }
 
-#frame2 {
-    width: 10px;
-    border: 50%;
+#image2 {
+    width: 100%;
+    border: 11px solid white;
     display: block;
     padding: 11px;
+    background-color: black;
 }
