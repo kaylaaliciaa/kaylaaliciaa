@@ -1,0 +1,23 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the assignment.
+
+    Good luck, and have fun!
+*/
+
+#image1 {
+    width: 100px;
+    margin-top: 100px;
+    border: 10px solid black;
+    padding: 11px;
+    background-color: gray;
+}
+
+#frame2 {
+    width: 10px;
+    border: 50%;
+    display: block;
+    padding: 11px;
+}
